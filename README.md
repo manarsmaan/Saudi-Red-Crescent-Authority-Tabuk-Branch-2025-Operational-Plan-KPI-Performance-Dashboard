@@ -52,7 +52,3 @@ The data architecture consists of **3 main tables** structured in a Star Schema:
 
 ---
 
-## 💡 How to Add Media (Screenshots / GIF / Video)
-1. **GIF:** Record a 10-second interactive preview using **ScreenToGif** and place it under `Project Overview`.
-2. **Screenshots:** Take 2-3 clean screenshots, save them in a folder named `screenshots/`, and update the image paths above.
-3. **Video:** Upload a short walk-through to YouTube/Loom and add the link at the end.
