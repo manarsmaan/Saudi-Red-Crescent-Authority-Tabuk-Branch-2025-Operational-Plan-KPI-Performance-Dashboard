@@ -35,14 +35,11 @@ The data architecture consists of **3 main tables** structured in a Star Schema:
 
 ## 📸 Dashboard Preview
 
-*(Replace these image paths with your actual screenshot file names)*
-
-![Executive Overview](./screenshots/dashboard_overview.png)
+![Executive Overview](./dashboard_1.png)
 *Figure 1: Executive Performance Overview*
 
-![Planned vs Actual](./screenshots/planned_vs_actual.png)
+![Planned vs Actual](./dashboard_2.png)
 *Figure 2: Monthly Planned vs. Actual KPI Progress*
-
 ---
 
 ## 🛠️ Tools & Technologies Used
